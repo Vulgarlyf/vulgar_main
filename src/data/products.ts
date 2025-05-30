@@ -20,8 +20,8 @@ export const products: Product[] = [
     name: "vulgar tee 01",
     price: 89.99,
     images: [
-      "/src/assets/009.png",
-      "/src/assets/010.png"
+      "/assets/009.png",
+      "/assets/010.png"
       
     ],
     category: "t-shirts",
@@ -46,8 +46,8 @@ export const products: Product[] = [
     name: "vulgar tee 02",
     price: 39.99,
     images: [
-      "/src/assets/image2.png",
-      "/src/assets/image4.png"
+      "/assets/image2.png",
+      "/assets/image4.png"
     ],
     category: "t-shirts",
     description: "Minimalist essential t-shirt made from premium cotton with a clean design and perfect fit.",
@@ -71,8 +71,8 @@ export const products: Product[] = [
     name: "vulgar tee 03",
     price: 119.99,
     images: [
-      "/src/assets/007.png",
-      "/src/assets/008.png"
+      "/assets/007.png",
+      "/assets/008.png"
     ],
     category: "t-shirts",
     description: "Minimalist essential t-shirt made from premium cotton with a clean design and perfect fit.",
@@ -96,8 +96,8 @@ export const products: Product[] = [
     name: "vulgar tee 04",
     price: 69.99,
     images: [
-      "/src/assets/003.png",
-       "/src/assets/004.png"
+      "/assets/003.png",
+       "/assets/004.png"
     ],
     category: "t-shirts",
     description: "Minimalist essential t-shirt made from premium cotton with a clean design and perfect fit.",
@@ -121,8 +121,8 @@ export const products: Product[] = [
     name: "vulgar tee 05",
     price: 44.99,
     images: [
-      "/src/assets/001.png",
-      "/src/assets/002.png"
+      "/assets/001.png",
+      "/assets/002.png"
     ],
     category: "t-shirts",
     description: "Minimalist essential t-shirt made from premium cotton with a clean design and perfect fit.",
@@ -146,8 +146,8 @@ export const products: Product[] = [
     name: "vulgar tee 06",
     price: 99.99,
     images: [
-      "/src/assets/005.png",
-      "/src/assets/006.png"
+      "/assets/005.png",
+      "/assets/006.png"
     ],
     category: "t-shirts",
     description: "Minimalist essential t-shirt made from premium cotton with a clean design and perfect fit.",
@@ -171,8 +171,8 @@ export const products: Product[] = [
     name: "vulgar hoodie",
     price: 134.99,
     images: [
-      "/src/assets/011.png",
-      "/src/assets/012.png"
+      "/assets/011.png",
+      "/assets/012.png"
     ],
     category: "hoodies",
     description: "Premium oversized hoodie made from heavyweight fleece with a relaxed fit and minimalist design for urban style.",
@@ -196,7 +196,7 @@ export const products: Product[] = [
     name: "sleeveless tee",
     price: 159.99,
     images: [
-      "/src/assets/013.png"
+      "/assets/013.png"
     ],
     category: "accessories",
     description: "Urban technical bomber jacket with water-resistant shell and minimal design for versatile city style.",

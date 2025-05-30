@@ -21,9 +21,9 @@ const Index = () => {
   const featuredProducts = getFeaturedProducts();
 
   const categories = [
-    { title: "T-Shirts", image: "/src/assets/005.png", link: "/products/t-shirts" },
-    { title: "Hoodies", image: "/src/assets/014.png", link: "/products/hoodies" },
-    { title: "Accessories", image: "/src/assets/015.png", link: "/products/accessories" },
+    { title: "T-Shirts", image: "/assets/005.png", link: "/products/t-shirts" },
+    { title: "Hoodies", image: "/assets/014.png", link: "/products/hoodies" },
+    { title: "Accessories", image: "/assets/015.png", link: "/products/accessories" },
   ];
 
   // Get specific products for community voting
@@ -42,7 +42,7 @@ const Index = () => {
           <div className="absolute inset-0 opacity-90">
             <div className="h-full w-full bg-gradient-to-b from-transparent to-black/50" />
             <img 
-              src="/src/assets/image01.png" 
+              src="/assets/image01.png" 
               alt="Vulgar Collection" 
               className="h-full w-full object-cover object-center opacity-60"
             />
@@ -153,7 +153,7 @@ const Index = () => {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
               <div>
                 <img 
-                  src="/src/assets/image01.png" 
+                  src="/assets/image01.png" 
                   alt="About Vulgar" 
                   className="w-full h-[500px] object-cover"
                 />

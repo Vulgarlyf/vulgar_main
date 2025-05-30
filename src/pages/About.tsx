@@ -17,13 +17,13 @@ const About = () => {
     {
       name: "Ebuka (Hotboy)",
       role: "Founder / Creative Director",
-      image: "/src/assets/p1.jpg",
+      image: "/assets/p1.jpg",
       quote: "Design is rebellion made wearable."
     },
     {
       name: "Divine (Dcreator)",
       role: "Designer",
-      image: "/src/assets/p2.jpg", 
+      image: "/assets/p2.jpg", 
       quote: "We don't follow trends, we create movements."
     },
     
@@ -39,7 +39,7 @@ const About = () => {
           <div className="absolute inset-0 opacity-90">
             <div className="h-full w-full bg-gradient-to-b from-transparent to-black/50" />
             <img 
-              src="/src/assets/000.jpg" 
+              src="/assets/000.jpg" 
               alt="About Vulgar" 
               className="h-full w-full object-cover object-center opacity-60"
             />
@@ -100,7 +100,7 @@ const About = () => {
               </div>
               <div className="relative">
                 <img 
-                  src="/src/assets/image01.png" 
+                  src="/assets/image01.png" 
                   alt="Vulgar founders working" 
                   className="w-full h-[500px] object-cover rounded-lg shadow-lg"
                 />
